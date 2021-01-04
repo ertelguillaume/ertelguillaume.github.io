@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#canvas1 {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(#000000, #000000);
+}
+
+p {
+  color: yellow;
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+
+p2 {
+  color: red;
+  position: absolute;
+  font-family: Arial,
+  Helvetica,
+  sans-serif;
+  font-size: larger;
+  padding-top: 20px;
+}
+
+P3 {
+  color: yellow;
+  position: absolute;
+  font-family: Arial,
+  Helvetica,
+  sans-serif;
+  font-size: 15px;
+  padding-top: 40px;
+}
+
+p4 {
+  color: red;
+  position: absolute;
+  font-family: Arial,
+  Helvetica,
+  sans-serif;
+  font-size: 15px;
+  padding-top: 60px;
+}
+
+p5 {
+  color: yellow;
+  position: absolute;
+  font-family: Arial,
+  Helvetica,
+  sans-serif;
+  font-size: smaller;
+  padding-top: 80px;
+}
+
+.p {
+  opacity: 70%;
+}
